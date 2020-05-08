@@ -26,3 +26,16 @@
 <li>Oreilly.Head.First.JavaScript</li>
 <li>Oreilly.Head.First.Statistics</li>
 <li>Oreilly.Head.First.iPhone.and.iPad.Development.2nd.Edition</li>
+
+# HeadFirst-Ebooks
+Top Head First E-Books
+
+<table width="100%" class="table">
+<tr>
+<th>S.No</th>
+<th>E-Book</th>
+</tr>
+<tr><td>1.</td><td><a target="_blank" href="https://github.com/abhinavkorpal/head_first_series_books/blob/master/Head%20First%202D%20Geometry.pdf">Head First 2D Geometry</a></td></tr>
+<tr><td>2.</td><td><a target="_blank" href="https://github.com/abhinavkorpal/head_first_series_books/blob/master/Head%20First%20EJB%20-%20Kathy%20Sierra%20e%20Bert%20Bates.pdf">Head First EJB</a></td></tr>
+<tr><td>3.</td><td><a target="_blank" href="https://github.com/abhinavkorpal/head_first_series_books/blob/master/Head%20First%20HTML5%20Programming%20Building%20Web%20Apps%20with%20JavaScript.pdf">Head First HTML5</a></td></tr>
+<tr><td>4.</td><td><a target="_blank" href="https://github.com/abhinavkorpal/head_first_series_books/blob/master/Head%20First%20PMP%202nd%20Edition%20(2009).pdf">Head First PMP</a></td></tr>
